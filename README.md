@@ -1,8 +1,6 @@
-## Aspect-Based-Sentiment-Analysis
-This research project is done on Aspect Based Sentiment Analysis concentrating on aspect term polarity estimation for given textual dataset.
 
 # Aspect-Based-Sentiment-Analysis
-Aspect based sentiment analysis is the determination of sentiment orientation of different important aspects of any textual review or post. 
+1Aspect based sentiment analysis is the determination of sentiment orientation of different important aspects of any textual review or post. 
 
 This research project is done on Aspect Based Sentiment Analysis concentrating on aspect term polarity estimation for given textual dataset. The dataset consists of a number of examples/reviews and each example/review is paired with an aspect its location in the sentence for which the sentiment polarity needs to be estimated. Used multiple machine learning models including Deep Memory network for the determination of the sentiment polarity in reviews/post based on aspect and presented their pros and cons. Applied various machine learning techniques, tuned parameters on different models to achieve high accuracy. 
 
